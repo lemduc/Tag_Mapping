@@ -2,11 +2,615 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2358a92-03e7-4dd8-a3a7-eb9aa524797d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapping/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapping/controller/MappingController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapping/models/Mapping.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/100" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/1000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/1001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/1002" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/1003" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/1004" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/101" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/102" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/103" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/104" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/105" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/106" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/107" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/108" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/109" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/110" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/111" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/112" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/113" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/114" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/115" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/116" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/117" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/118" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/119" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/120" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/121" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/122" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/123" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/124" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/125" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/126" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/127" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/128" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/129" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/130" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/131" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/132" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/133" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/134" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/135" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/136" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/137" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/138" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/139" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/140" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/141" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/142" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/143" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/144" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/145" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/146" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/147" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/148" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/149" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/150" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/151" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/152" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/153" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/154" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/155" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/156" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/157" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/158" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/159" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/160" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/161" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/162" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/163" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/164" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/165" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/166" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/167" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/168" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/169" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/170" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/171" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/172" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/173" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/174" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/175" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/176" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/177" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/178" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/179" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/180" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/181" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/182" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/183" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/184" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/185" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/186" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/187" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/188" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/189" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/190" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/191" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/192" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/193" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/194" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/195" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/196" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/197" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/198" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/199" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/200" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/201" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/202" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/203" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/204" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/205" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/206" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/207" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/208" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/209" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/210" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/211" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/212" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/213" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/214" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/215" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/216" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/217" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/218" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/219" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/220" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/221" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/222" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/223" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/224" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/225" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/226" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/227" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/228" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/229" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/230" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/231" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/232" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/233" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/234" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/235" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/236" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/237" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/238" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/239" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/240" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/241" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/242" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/243" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/244" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/245" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/246" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/247" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/248" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/249" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/250" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/251" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/252" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/253" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/254" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/255" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/256" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/257" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/258" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/259" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/260" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/261" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/262" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/263" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/264" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/265" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/266" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/267" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/268" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/269" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/27" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/270" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/271" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/272" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/273" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/274" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/275" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/276" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/277" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/278" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/279" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/280" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/281" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/282" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/283" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/284" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/285" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/286" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/287" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/288" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/289" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/290" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/291" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/292" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/293" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/294" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/295" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/296" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/298" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/299" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/30" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/300" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/301" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/302" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/303" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/304" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/305" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/306" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/307" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/308" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/309" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/310" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/311" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/312" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/313" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/314" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/315" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/316" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/317" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/318" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/319" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/32" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/320" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/321" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/322" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/323" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/324" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/325" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/326" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/327" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/328" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/329" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/33" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/330" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/331" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/332" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/333" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/334" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/335" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/336" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/337" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/338" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/34" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/340" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/341" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/342" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/343" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/344" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/345" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/346" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/347" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/348" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/349" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/35" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/351" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/352" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/353" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/354" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/355" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/356" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/357" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/358" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/359" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/36" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/360" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/361" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/362" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/363" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/364" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/366" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/368" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/369" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/37" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/370" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/371" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/372" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/373" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/375" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/376" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/377" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/378" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/379" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/38" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/380" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/381" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/382" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/384" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/386" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/387" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/388" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/389" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/39" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/391" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/392" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/393" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/394" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/395" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/396" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/397" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/398" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/399" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/40" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/400" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/401" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/402" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/403" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/404" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/405" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/406" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/407" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/408" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/409" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/41" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/410" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/411" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/412" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/413" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/414" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/415" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/416" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/417" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/418" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/419" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/42" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/420" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/421" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/422" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/423" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/424" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/425" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/426" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/427" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/428" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/429" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/43" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/430" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/431" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/432" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/433" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/434" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/435" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/436" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/437" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/438" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/439" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/44" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/440" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/441" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/442" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/443" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/444" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/445" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/446" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/447" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/448" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/449" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/45" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/450" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/451" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/452" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/453" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/454" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/455" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/456" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/457" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/458" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/459" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/46" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/460" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/461" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/462" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/463" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/464" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/465" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/466" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/467" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/468" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/469" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/47" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/470" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/471" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/472" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/473" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/474" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/475" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/476" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/477" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/478" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/479" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/48" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/480" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/481" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/482" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/483" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/484" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/485" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/486" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/487" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/488" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/489" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/49" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/490" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/491" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/492" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/493" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/494" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/495" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/496" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/497" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/498" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/499" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/50" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/500" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/501" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/502" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/503" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/504" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/505" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/506" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/507" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/508" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/509" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/51" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/510" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/511" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/512" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/513" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/514" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/515" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/516" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/517" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/518" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/519" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/52" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/520" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/521" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/522" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/523" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/524" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/525" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/526" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/527" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/528" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/529" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/53" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/530" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/531" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/532" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/533" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/534" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/535" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/536" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/537" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/538" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/539" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/54" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/540" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/541" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/542" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/543" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/544" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/545" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/546" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/547" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/548" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/549" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/55" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/550" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/551" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/552" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/553" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/554" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/555" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/556" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/557" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/558" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/559" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/56" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/560" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/561" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/562" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/563" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/564" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/565" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/566" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/567" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/568" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/569" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/57" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/571" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/572" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/573" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/574" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/575" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/576" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/577" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/578" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/579" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/58" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/580" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/581" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/582" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/583" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/584" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/585" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/586" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/587" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/588" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/589" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/59" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/590" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/591" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/592" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/593" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/594" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/595" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/596" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/597" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/598" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/599" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/60" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/600" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/601" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/602" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/603" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/604" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/605" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/61" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/62" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/63" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/64" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/65" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/66" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/67" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/68" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/69" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/70" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/71" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/72" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/73" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/735" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/74" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/75" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/753" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/76" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/77" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/78" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/79" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/80" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/81" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/82" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/83" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/84" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/85" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/86" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/87" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/88" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/89" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/90" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/91" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/92" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/93" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/94" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/95" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/96" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/97" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/98" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/_sent_mail/99" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapping/topicExtraction/Keywords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapping/topicExtraction/TopicExtractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/mapping/Application.java" afterPath="$PROJECT_DIR$/src/main/java/mapping/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tagmapping.iml" afterPath="$PROJECT_DIR$/tagmapping.iml" />
     </list>
     <ignored path="tagmapping.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,8 +637,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="391">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -43,23 +647,14 @@
       <file leaf-file-name="Mapping.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mapping/models/Mapping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="357">
               <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-              <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MappingController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MappingController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mapping/controller/MappingController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -71,15 +666,52 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="605" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/_sent_mail/605">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopicExtractor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapping/topicExtraction/TopicExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
+                <element signature="e#1096#1097#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Keywords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapping/topicExtraction/Keywords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <folding>
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mapping/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,7 +721,7 @@
         <entry file="file://$PROJECT_DIR$/tagmapping.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="714">
-              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -119,11 +751,14 @@
         <option value="$PROJECT_DIR$/src/main/java/MappingController.java" />
         <option value="$PROJECT_DIR$/src/main/java/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/controller/MappingController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Mapping/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/Mapping/controller/MappingController.java" />
         <option value="$PROJECT_DIR$/src/main/java/m/controller/MappingController.java" />
         <option value="$PROJECT_DIR$/src/main/java/mapping/controller/MappingController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mapping/topicExtraction/Keywords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapping/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapping/topicExtraction/TopicExtractor.java" />
       </list>
     </option>
   </component>
@@ -257,6 +892,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tag_Mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tag_Mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topicExtraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tag_Mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tag_Mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -267,9 +946,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EVC_User\Desktop\Tag_Mapping\data\_sent_mail" />
       <recent name="C:\Users\EVC_User\Desktop\Tag_Mapping\data" />
     </key>
   </component>
@@ -814,11 +1497,12 @@
       <updated>1465332845652</updated>
       <workItem from="1465332850879" duration="641000" />
       <workItem from="1465333520536" duration="2922000" />
+      <workItem from="1465337296708" duration="3889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3563000" />
+    <option name="totallyTimeSpent" value="7452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -826,7 +1510,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32981783" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -837,18 +1520,19 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39980826" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39980826" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32981783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -865,7 +1549,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mapping/topicExtraction/TopicExtractor.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -875,17 +1569,37 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapping/models/Mapping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="357">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapping/controller/MappingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapping/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -897,32 +1611,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapping/Application.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tagmapping.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mapping/models/Mapping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="357">
           <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-          <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -936,5 +1645,132 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/_sent_mail/605">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapping/topicExtraction/Keywords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapping/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapping/topicExtraction/TopicExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tagmapping</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
