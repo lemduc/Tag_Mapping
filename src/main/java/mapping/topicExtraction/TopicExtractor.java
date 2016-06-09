@@ -61,11 +61,16 @@ public class TopicExtractor {
 
           //       HttpEntity<Keywords> entity = new HttpEntity<>(new Keywords());
                 HttpEntity<?> entity = new HttpEntity<>(headers);
-          //       HttpEntity<String> response2 = restTemplate.exchange(builder.build().encode().toUri(), HttpMethod.GET, entity, String.class);
-                 Keywords response = restTemplate.postForObject(builder.build().encode().toUri(), entity, Keywords.class);
+                 HttpEntity<String> response = restTemplate.exchange(builder.build().encode().toUri(), HttpMethod.POST, entity, String.class);
+           //      Keywords response = restTemplate.postForObject(builder.build().encode().toUri(), entity, Keywords.class);
 //                 Keywords keywords = restTemplate.postForObject(url, Keywords.class)
 
                  System.out.println(response);
+                 String body = response.getBody();
+                 String[] keywords =  body.substring(1, body.length()-2).replace("\"", "").split(",");
+                 for (String keyword: keywords){
+
+                 }
 //                String keywords = restTemplate.exchange(builder.build().encode().toUri(), HttpMethod.GET, entity, String.class);
 
 
